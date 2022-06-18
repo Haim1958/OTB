@@ -1,0 +1,9 @@
+ltc2666_reg.c:42:16:_ltc2666_write_command_24b	24	static
+ltc2666_reg.c:55:16:_ltc2666_write_command_32b	24	static
+ltc2666_reg.c:68:16:_ltc2666_mv_to_counts	40	static
+ltc2666_reg.c:102:9:ltc2666_write_channel_value	24	static
+ltc2666_reg.c:117:9:ltc2666_write_all_channels_value	24	static
+ltc2666_reg.c:132:16:ltc2666_ibit	32	static
+ltc2666_reg.c:161:9:ltc2666_power_down	16	static
+ltc2666_reg.c:166:9:ltc2666_set_MUX	16	static
+ltc2666_reg.c:171:9:ltc2666_initialize	24	static

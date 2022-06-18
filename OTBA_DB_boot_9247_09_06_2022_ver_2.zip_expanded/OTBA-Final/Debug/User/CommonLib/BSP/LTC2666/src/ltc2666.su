@@ -1,0 +1,5 @@
+ltc2666.c:58:9:install_ltc2666	48	static
+ltc2666.c:104:9:_ltc2666_open	24	static
+ltc2666.c:132:9:_ltc2666_read	24	static
+ltc2666.c:149:9:_ltc2666_write	32	static
+ltc2666.c:169:9:_ltc2666_ioctl	32	static

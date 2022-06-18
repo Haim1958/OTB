@@ -1,0 +1,10 @@
+app_rf.c:84:9:app_rf_get_number_of_tables	4	static
+app_rf.c:90:9:app_rf_get_number_of_rows	4	static
+app_rf.c:96:7:app_rf_get_temp_column_value_0	4	static
+app_rf.c:102:7:app_rf_get_temp_column_value_1	4	static
+app_rf.c:108:7:app_rf_get_temp_column_value_2	4	static
+app_rf.c:114:9:app_rf_table_find_table	24	static
+app_rf.c:133:9:app_rf_table_find_row	24	static
+app_rf.c:152:9:app_rf_table_find_column	24	static
+app_rf.c:171:9:app_rf_table_set_default	24	static
+app_rf.c:191:9:app_rf_init	32	static

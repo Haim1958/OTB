@@ -1,0 +1,13 @@
+tcpcom_icd.c:34:16:prepare_header	24	static
+tcpcom_icd.c:64:13:_tcpcom_icd_header_hton	24	static
+tcpcom_icd.c:79:6:_tcpcom_icd_header_ntoh	24	static
+tcpcom_icd.c:94:13:_tcpcom_icd_signal_test_ntoh	16	static
+tcpcom_icd.c:99:13:_tcpcom_icd_test_result_hton	16	static
+tcpcom_icd.c:114:13:_tcpcom_icd_signal_discrete_test_report_hton	16	static
+tcpcom_icd.c:121:13:_tcpcom_icd_status_hton	16	static
+tcpcom_icd.c:126:13:_tcpcom_icd_phasis_control_ntoh	16	static
+tcpcom_icd.c:131:16:_tcpcom_icd_body_hton	16	static
+tcpcom_icd.c:153:9:_tcpcom_icd_body_ntoh	16	static
+tcpcom_icd.c:171:17:_tcpcom_icd_get_packet_length	16	static
+tcpcom_icd.c:186:6:_tcpcom_icd_print_packet	24	static
+tcpcom_icd.c:226:9:_tcpcom_icd_send_message	32	static

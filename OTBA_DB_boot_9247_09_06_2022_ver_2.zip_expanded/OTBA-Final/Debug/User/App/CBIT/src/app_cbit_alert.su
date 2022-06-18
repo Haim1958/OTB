@@ -1,0 +1,8 @@
+app_cbit_alert.c:32:6:Update_OTB_test_Staus	16	static
+app_cbit_alert.c:55:2:Power_Monitor_test	24	static
+app_cbit_alert.c:79:7:FPGA_OTBA_REG__SERDES_SFP_STAT_test	24	static
+app_cbit_alert.c:122:6:temperature_mointor	24	static
+app_cbit_alert.c:147:6:RF_mointor	56	static
+app_cbit_alert.c:161:9:Read_FPGA	24	static
+app_cbit_alert.c:181:9:Write_FPGA	24	static
+app_cbit_alert.c:199:9:Read_ADS8681	32	static

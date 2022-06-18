@@ -1,0 +1,2 @@
+fpga_otbc_reg.c:56:9:_fpga_otbc_read_register	32	static
+fpga_otbc_reg.c:89:9:_fpga_otbc_write_register	24	static

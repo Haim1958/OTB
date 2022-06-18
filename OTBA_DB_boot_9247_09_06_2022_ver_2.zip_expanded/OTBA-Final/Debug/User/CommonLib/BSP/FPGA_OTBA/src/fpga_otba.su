@@ -1,0 +1,5 @@
+fpga_otba.c:51:9:install_fpga_otba	48	static
+fpga_otba.c:96:16:_fpga_otba_open	24	static
+fpga_otba.c:119:16:_fpga_otba_read	24	static
+fpga_otba.c:137:16:_fpga_otba_write	24	static
+fpga_otba.c:153:16:_fpga_otba_ioctl	48	static

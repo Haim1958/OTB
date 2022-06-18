@@ -1,0 +1,5 @@
+cli.c:53:9:install_cli	56	static
+cli.c:110:16:_cli_open	24	static
+cli.c:150:16:_cli_read	32	static
+cli.c:188:16:_cli_write	32	static
+cli.c:209:16:_cli_ioctl	32	static

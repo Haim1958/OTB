@@ -1,0 +1,5 @@
+cpu_temp_phy.c:40:16:_cpu_temp_configure_adc	32	static
+cpu_temp_phy.c:56:16:_cpu_temp_sample_adc	24	static
+cpu_temp_phy.c:87:16:_cpu_temp_calculate_temperature	24	static
+cpu_temp_phy.c:106:9:_cpu_temp_sample_temperature	24	static
+cpu_temp_phy.c:132:9:_cpu_temp_init	24	static

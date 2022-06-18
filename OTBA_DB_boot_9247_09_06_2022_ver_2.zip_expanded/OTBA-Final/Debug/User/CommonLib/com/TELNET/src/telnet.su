@@ -1,0 +1,5 @@
+telnet.c:54:9:install_telnet	56	static
+telnet.c:101:16:_telnet_open	24	static
+telnet.c:147:16:_telnet_read	32	static
+telnet.c:173:16:_telnet_write	32	static
+telnet.c:205:16:_telnet_ioctl	32	static

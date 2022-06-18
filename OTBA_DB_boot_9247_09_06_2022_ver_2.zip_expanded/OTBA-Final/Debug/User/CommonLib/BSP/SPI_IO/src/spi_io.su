@@ -1,0 +1,5 @@
+spi_io.c:49:9:install_spi_io	48	static
+spi_io.c:95:9:_spi_io_open	32	static
+spi_io.c:179:9:_spi_io_read	32	static
+spi_io.c:205:9:_spi_io_write	40	static
+spi_io.c:253:9:_spi_io_ioctl	32	static

@@ -1,0 +1,5 @@
+dac61408.c:58:9:install_dac61408	48	static
+dac61408.c:104:9:_dac61408_open	24	static
+dac61408.c:134:9:_dac61408_read	24	static
+dac61408.c:151:9:_dac61408_write	32	static
+dac61408.c:171:9:_dac61408_ioctl	32	static

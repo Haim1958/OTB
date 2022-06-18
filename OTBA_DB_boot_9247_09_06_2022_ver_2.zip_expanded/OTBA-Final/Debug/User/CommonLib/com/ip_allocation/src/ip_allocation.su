@@ -1,0 +1,3 @@
+ip_allocation.c:42:16:CreateSocketAndConnect	48	static
+ip_allocation.c:97:16:ReceiveLocation	40	static
+ip_allocation.c:138:9:GetLocationAndSetIP	48	static

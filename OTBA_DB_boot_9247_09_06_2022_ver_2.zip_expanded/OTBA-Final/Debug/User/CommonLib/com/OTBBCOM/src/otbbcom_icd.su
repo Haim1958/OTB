@@ -1,0 +1,7 @@
+otbbcom_icd.c:34:16:prepare_header	24	static
+otbbcom_icd.c:45:13:_otbbcom_icd_header_hton	24	static
+otbbcom_icd.c:61:6:_otbbcom_icd_header_ntoh	24	static
+otbbcom_icd.c:77:16:_otbbcom_icd_body_hton	16	static
+otbbcom_icd.c:102:9:_otbbcom_icd_body_ntoh	16	static
+otbbcom_icd.c:107:6:_otbbcom_icd_print_packet	16	static
+otbbcom_icd.c:150:9:_otbbcom_icd_send_message	32	static

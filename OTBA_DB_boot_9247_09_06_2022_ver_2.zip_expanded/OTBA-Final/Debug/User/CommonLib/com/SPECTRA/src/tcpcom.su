@@ -1,0 +1,5 @@
+tcpcom.c:58:9:install_tcpcom	56	static
+tcpcom.c:102:16:_tcpcom_open	40	static
+tcpcom.c:151:16:_tcpcom_read	24	static
+tcpcom.c:170:16:_tcpcom_write	32	static
+tcpcom.c:190:16:_tcpcom_ioctl	40	static

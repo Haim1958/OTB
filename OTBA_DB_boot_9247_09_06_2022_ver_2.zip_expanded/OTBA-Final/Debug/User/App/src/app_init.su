@@ -1,0 +1,3 @@
+app_init.c:46:16:main_app_init_drivers	240	static
+app_init.c:442:16:app_init_os	136	static
+app_init.c:528:9:main_app_init	24	static

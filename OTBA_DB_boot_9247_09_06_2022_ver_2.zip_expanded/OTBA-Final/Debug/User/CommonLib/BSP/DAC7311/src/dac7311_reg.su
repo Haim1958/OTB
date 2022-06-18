@@ -1,0 +1,4 @@
+dac7311_reg.c:42:16:_dac7311_write_register	24	static
+dac7311_reg.c:53:9:dac7311_write_value	24	static
+dac7311_reg.c:63:9:dac7311_power_down	24	static
+dac7311_reg.c:71:9:dac7311_initialize	16	static

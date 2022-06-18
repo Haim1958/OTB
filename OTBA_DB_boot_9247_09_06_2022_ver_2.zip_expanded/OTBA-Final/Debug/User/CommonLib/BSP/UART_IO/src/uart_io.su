@@ -1,0 +1,5 @@
+uart_io.c:58:9:install_uart_io	48	static
+uart_io.c:105:16:_uart_io_open	72	static
+uart_io.c:212:16:_uart_io_read	32	static
+uart_io.c:238:16:_uart_io_write	32	static
+uart_io.c:269:16:_uart_io_ioctl	32	static

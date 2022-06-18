@@ -1,0 +1,5 @@
+dac7311.c:58:9:install_dac7311	48	static
+dac7311.c:104:9:_dac7311_open	24	static
+dac7311.c:128:9:_dac7311_read	24	static
+dac7311.c:145:9:_dac7311_write	32	static
+dac7311.c:165:9:_dac7311_ioctl	32	static

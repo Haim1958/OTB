@@ -1,0 +1,11 @@
+dac61408_reg.c:42:16:_dac61408_write_register	24	static
+dac61408_reg.c:54:16:_dac61408_read_register	32	static
+dac61408_reg.c:93:9:dac61408_write_value	24	static
+dac61408_reg.c:117:16:dac61408_ibit	24	static
+dac61408_reg.c:140:16:_dac61408_enable_internal_reference	24	static
+dac61408_reg.c:150:16:_dac61408_configure_channels	32	static
+dac61408_reg.c:184:16:dac61408_configure	24	static
+dac61408_reg.c:204:9:dac61408_power_up	24	static
+dac61408_reg.c:212:9:dac61408_power_down	32	static
+dac61408_reg.c:232:16:_dac61408_reset	24	static
+dac61408_reg.c:244:9:dac61408_initialize	24	static

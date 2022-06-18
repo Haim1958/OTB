@@ -1,0 +1,5 @@
+m24512.c:58:9:install_m24512	48	static
+m24512.c:101:16:_m24512_open	24	static
+m24512.c:124:16:_m24512_read	40	static
+m24512.c:151:16:_m24512_write	48	static
+m24512.c:204:16:_m24512_ioctl	32	static

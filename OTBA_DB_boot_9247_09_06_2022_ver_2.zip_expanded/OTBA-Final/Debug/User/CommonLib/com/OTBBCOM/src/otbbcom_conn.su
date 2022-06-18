@@ -1,0 +1,7 @@
+otbbcom_conn.c:28:9:_otbbcom_create_configure_socket_server	48	static
+otbbcom_conn.c:91:9:_otbbcom_accept_connection	48	static
+otbbcom_conn.c:123:9:_otbbcom_connect	40	static
+otbbcom_conn.c:193:9:_otbbcom_redelete	24	static
+otbbcom_conn.c:228:10:_otbbcom_reopen	32	static
+otbbcom_conn.c:316:6:_otbbcom_task_conn	24	static
+otbbcom_conn.c:371:9:_otbbcom_create_configure_socket_client	48	static

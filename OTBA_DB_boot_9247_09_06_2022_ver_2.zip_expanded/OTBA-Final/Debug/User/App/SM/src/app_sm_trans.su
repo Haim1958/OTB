@@ -1,0 +1,14 @@
+app_sm_trans.c:41:9:_app_sm__trans_INIT_IDLE__check	24	static
+app_sm_trans.c:65:9:_app_sm__trans_INIT_IDLE__exit	16	static
+app_sm_trans.c:81:9:_app_sm__trans_IDLE_IBIT__check	24	static
+app_sm_trans.c:97:9:_app_sm__trans_IDLE_IBIT__exit	16	static
+app_sm_trans.c:113:9:_app_sm__trans_IBIT_IDLE__check	24	static
+app_sm_trans.c:129:9:_app_sm__trans_IBIT_IDLE__exit	16	static
+app_sm_trans.c:145:9:_app_sm__trans_IDLE_OPERATE__check	24	static
+app_sm_trans.c:161:9:_app_sm__trans_IDLE_OPERATE__exit	16	static
+app_sm_trans.c:177:9:_app_sm__trans_OPERATE_IDLE__check	24	static
+app_sm_trans.c:193:9:_app_sm__trans_OPERATE_IDLE__exit	24	static
+app_sm_trans.c:210:9:_app_sm__trans_IDLE_LASEROFF__check	24	static
+app_sm_trans.c:226:9:_app_sm__trans_IDLE_LASEROFF__exit	16	static
+app_sm_trans.c:242:9:_app_sm__trans_LASEROFF_IDLE__check	24	static
+app_sm_trans.c:258:9:_app_sm__trans_LASEROFF_IDLE__exit	24	static

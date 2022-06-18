@@ -1,0 +1,10 @@
+app_ibit.c:32:16:perform_RF_test_IBIT	16	static
+app_ibit.c:38:16:start_discrete_test_IBIT	16	static
+app_ibit.c:44:16:end_discrete_test_IBIT	16	static
+app_ibit.c:50:9:perform_discrete_signal_test_IBIT	24	static
+app_ibit.c:72:16:FPGA_set_dis_test_start_state	24	static
+app_ibit.c:95:16:FPGA_set_dis_test_stop_state	24	static
+app_ibit.c:118:16:write_output_discretes	32	static
+app_ibit.c:199:16:read_input_discretes	24	static
+app_ibit.c:228:16:progress_test_IBIT	24	static
+app_ibit.c:329:9:perform_IBIT_if_necessary	152	static

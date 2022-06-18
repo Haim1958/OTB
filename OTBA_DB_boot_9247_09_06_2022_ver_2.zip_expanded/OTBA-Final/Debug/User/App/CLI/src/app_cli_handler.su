@@ -1,0 +1,17 @@
+core_cm7.h:2147:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+app_cli_handler.c:103:16:cli_handle_command__bootloader	64	static
+app_cli_handler.c:151:16:cli_handle_command__rf_table	112	static
+app_cli_handler.c:423:16:cli_handle_command__rf	96	static
+app_cli_handler.c:649:16:cli_handle_command__optics	112	static
+app_cli_handler.c:1064:16:cli_handle_command__fpga	56	static
+app_cli_handler.c:1147:16:cli_handle_command__set_temp	48	static
+app_cli_handler.c:1211:16:hex_to_str	40	static
+app_cli_handler.c:1255:16:cli_handle_command_EMAC_ADDRESS	96	static
+app_cli_handler.c:1382:16:cli_handle_command__cpu_temp	40	static
+app_cli_handler.c:1415:16:cli_handle_command__print_commands	48	static
+app_cli_handler.c:1452:16:cli_handle_command__version	24	static
+app_cli_handler.c:1460:9:cli_handle_rx	40	static
+app_cli_handler.c:1520:9:app_cli_handle_rx	32	static
+app_cli_handler.c:1541:13:cli_handle_command_rf_table_print	24	static
+app_cli_handler.c:1592:16:cli_handle_command__LD	72	static
+app_cli_handler.c:1623:6:cli_handle_command_read_DACs	72	static

@@ -1,0 +1,9 @@
+fsm_sm.c:58:23:fsm_sm_create	40	static
+fsm_sm.c:163:9:fsm_sm_set_active_state	32	static
+fsm_sm.c:232:9:fsm_sm_set_error_next_state	32	static
+fsm_sm.c:297:9:fsm_sm_run	48	static
+fsm_sm.c:422:9:fsm_enable	32	static
+fsm_sm.c:476:9:fsm_disable	32	static
+fsm_sm.c:529:9:fsm_get_error	24	static
+fsm_sm.c:560:6:_fsm_move_to_error_state	16	static
+fsm_sm.c:616:7:fsm_get_active_state	24	static

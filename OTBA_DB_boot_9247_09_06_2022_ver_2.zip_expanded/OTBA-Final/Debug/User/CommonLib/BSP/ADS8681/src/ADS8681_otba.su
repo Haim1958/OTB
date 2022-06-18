@@ -1,0 +1,5 @@
+ADS8681_otba.c:52:9:install_ADS8681_otba	48	static
+ADS8681_otba.c:97:16:_ADS8681_otba_open	24	static
+ADS8681_otba.c:120:16:_ADS8681_otba_read	24	static
+ADS8681_otba.c:138:16:_ADS8681_otba_write	24	static
+ADS8681_otba.c:154:16:_ADS8681_otba_ioctl	48	static

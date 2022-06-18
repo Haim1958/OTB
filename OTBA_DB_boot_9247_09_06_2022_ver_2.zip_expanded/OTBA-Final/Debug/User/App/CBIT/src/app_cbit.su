@@ -1,0 +1,4 @@
+app_cbit.c:50:16:perform_CBIT__OPTMOD	16	static
+app_cbit.c:83:16:perform_CBIT	24	static
+app_cbit.c:135:13:prepare_otb_test_result_body	16	static
+app_cbit.c:147:9:perform_CBIT_if_necessary	168	static

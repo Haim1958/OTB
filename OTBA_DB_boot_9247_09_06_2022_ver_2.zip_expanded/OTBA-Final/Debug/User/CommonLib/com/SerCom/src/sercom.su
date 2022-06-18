@@ -1,0 +1,5 @@
+sercom.c:55:9:install_sercom	56	static
+sercom.c:113:16:_sercom_open	48	static
+sercom.c:202:16:_sercom_read	32	static
+sercom.c:228:16:_sercom_write	32	static
+sercom.c:255:16:_sercom_ioctl	32	static

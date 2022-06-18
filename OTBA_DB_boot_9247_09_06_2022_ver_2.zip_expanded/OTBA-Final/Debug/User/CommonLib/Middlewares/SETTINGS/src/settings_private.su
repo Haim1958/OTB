@@ -1,0 +1,5 @@
+settings_private.c:38:17:_settings_crc16_compute	24	static
+settings_private.c:55:16:_settings_file_validate	32	static
+settings_private.c:85:9:_settings_pull	24	static
+settings_private.c:112:9:_settings_push	32	static
+settings_private.c:142:9:_settings_write_data	32	static

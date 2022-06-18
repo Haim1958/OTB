@@ -1,0 +1,2 @@
+app_otbbcom_rx.c:42:16:_app_otbbcom_handle_packet	16	static
+app_otbbcom_rx.c:134:9:app_otbbcom_handle_comm	160	static

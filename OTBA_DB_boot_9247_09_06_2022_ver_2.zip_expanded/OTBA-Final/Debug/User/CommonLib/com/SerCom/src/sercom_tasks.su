@@ -1,0 +1,2 @@
+sercom_tasks.c:42:6:_sercom_task_tx	80	static
+sercom_tasks.c:59:6:_sercom_task_rx	32	static

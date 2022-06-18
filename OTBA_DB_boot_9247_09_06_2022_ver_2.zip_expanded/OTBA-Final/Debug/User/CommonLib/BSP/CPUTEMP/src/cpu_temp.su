@@ -1,0 +1,5 @@
+cpu_temp.c:49:9:install_cpu_temp	48	static
+cpu_temp.c:95:9:_cpu_temp_open	24	static
+cpu_temp.c:120:9:_cpu_temp_read	32	static
+cpu_temp.c:149:9:_cpu_temp_write	24	static
+cpu_temp.c:167:9:_cpu_temp_ioctl	40	static

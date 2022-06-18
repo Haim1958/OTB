@@ -1,0 +1,2 @@
+fsm_state.c:59:23:fsm_state_create	48	static
+fsm_state.c:181:10:fsm_get_if_state_initialized	24	static

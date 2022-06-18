@@ -1,0 +1,5 @@
+settings_io.c:56:9:install_settings	48	static
+settings_io.c:109:16:_settings_open	40	static
+settings_io.c:182:16:_settings_read	32	static
+settings_io.c:209:16:_settings_write	40	static
+settings_io.c:244:16:_settings_ioctl	40	static

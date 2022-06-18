@@ -1,0 +1,2 @@
+app_sm_init.c:41:9:app_sm_init	64	static
+app_sm_init.c:229:11:get_active_state	24	static

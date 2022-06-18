@@ -1,0 +1,5 @@
+cli_parser.c:45:16:cli_write_char	16	static
+cli_parser.c:85:9:cli_write_data	32	static
+cli_parser.c:107:9:cli_purge_command	16	static
+cli_parser.c:117:9:cli_read_command	16	static
+cli_parser.c:151:9:cli_read_token	16	static

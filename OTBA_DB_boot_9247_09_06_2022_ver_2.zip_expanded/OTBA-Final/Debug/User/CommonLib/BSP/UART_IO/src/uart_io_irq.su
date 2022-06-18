@@ -1,0 +1,2 @@
+uart_io_irq.c:44:6:_uart_io_tx	32	static
+uart_io_irq.c:67:6:_uart_io_irq_rx	40	static,ignoring_inline_asm

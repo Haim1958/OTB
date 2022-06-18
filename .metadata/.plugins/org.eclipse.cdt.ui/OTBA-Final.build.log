@@ -1,0 +1,13 @@
+10:09:47 **** Incremental Build of configuration Debug for project OTBA-Final ****
+make -j20 all 
+arm-none-eabi-size   OTBA-Final.elf 
+   text	   data	    bss	    dec	    hex	filename
+ 222936	    560	 126216	 349712	  55610	OTBA-Final.elf
+Finished building: default.size.stdout
+ 
+../add_crc_end_binary/add_crc_end_binary.exe -f OTBA-Final.bin
+new file named OTBA-Final_with_crc.bin created crc=789bccc4
+ 
+
+10:09:49 Build Finished. 0 errors, 0 warnings. (took 2s.490ms)
+

@@ -1,0 +1,14 @@
+app_sm_states.c:56:9:_app_sm__state_INIT__init	32	static
+app_sm_states.c:112:9:_app_sm__state_INIT__operation	32	static
+app_sm_states.c:135:16:fpga_dis_sig_state_IDLE	24	static
+app_sm_states.c:169:9:_app_sm__state_IDLE__init	24	static
+app_sm_states.c:206:9:_app_sm__state_IDLE__operation	160	static
+app_sm_states.c:257:9:_app_sm__state_IBIT__init	24	static
+app_sm_states.c:286:9:_app_sm__state_IBIT__operation	160	static
+app_sm_states.c:335:16:fpga_dis_sig_state_OPERATE	24	static
+app_sm_states.c:395:9:_app_sm__state_OPERATE__init	24	static
+app_sm_states.c:438:9:_app_sm__state_OPERATE__operation	160	static
+app_sm_states.c:498:9:_app_sm__state_LASEROFF__init	24	static
+app_sm_states.c:537:9:_app_sm__state_LASEROFF__operation	160	static
+app_sm_states.c:591:9:_app_sm__state_ERROR__init	32	static
+app_sm_states.c:624:9:_app_sm__state_ERROR__operation	16	static

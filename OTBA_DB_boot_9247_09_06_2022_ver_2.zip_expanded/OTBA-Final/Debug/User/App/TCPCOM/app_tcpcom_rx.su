@@ -1,0 +1,3 @@
+app_tcpcom_rx.c:36:16:_app_tcpcom_handle_comm__phasis_control	160	static
+app_tcpcom_rx.c:92:16:_app_tcpcom_handle_comm__descrite_signal_test	160	static
+app_tcpcom_rx.c:132:9:app_tcpcom_handle_comm	24	static

@@ -1,0 +1,5 @@
+opt_adc_phy.c:41:16:_opt_adc_start_adc	24	static
+opt_adc_phy.c:61:16:_opt_adc_stop_adc	24	static
+opt_adc_phy.c:75:9:_opt_adc_sample	40	static
+opt_adc_phy.c:111:9:_opt_adc_init	16	static
+opt_adc_phy.c:116:9:ADC3_channel_select	24	static

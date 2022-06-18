@@ -1,0 +1,5 @@
+i2c_io.c:48:9:install_i2c_io	48	static
+i2c_io.c:101:9:_i2c_io_open	32	static
+i2c_io.c:155:9:_i2c_io_read	72	static
+i2c_io.c:194:9:_i2c_io_write	72	static
+i2c_io.c:234:9:_i2c_io_ioctl	32	static

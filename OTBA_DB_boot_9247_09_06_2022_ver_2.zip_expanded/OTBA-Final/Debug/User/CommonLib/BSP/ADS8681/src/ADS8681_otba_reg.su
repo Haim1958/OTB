@@ -1,0 +1,2 @@
+ADS8681_otba_reg.c:57:9:_ADS8681_otba_read_register	32	static
+ADS8681_otba_reg.c:93:9:_ADS8681_otba_write_register	24	static

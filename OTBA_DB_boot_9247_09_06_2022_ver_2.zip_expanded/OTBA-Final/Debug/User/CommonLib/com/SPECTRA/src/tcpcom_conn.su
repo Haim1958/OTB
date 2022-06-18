@@ -1,0 +1,4 @@
+tcpcom_conn.c:30:16:_tcpcom_create_configure_socket	48	static
+tcpcom_conn.c:150:9:_tcpcom_connect	40	static
+tcpcom_conn.c:191:13:pfunA_tcpcom_task_conn_timer	24	static
+tcpcom_conn.c:206:6:_tcpcom_task_conn	40	static

@@ -1,0 +1,2 @@
+tcpcom_task_rx.c:32:13:pfunA_tcpcom_task_rx_timer	24	static
+tcpcom_task_rx.c:50:6:_tcpcom_task_rx	184	static

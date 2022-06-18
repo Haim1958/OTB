@@ -1,0 +1,2 @@
+printf.c:34:9:printf_register_io	24	static
+printf.c:64:5:_write	32	static

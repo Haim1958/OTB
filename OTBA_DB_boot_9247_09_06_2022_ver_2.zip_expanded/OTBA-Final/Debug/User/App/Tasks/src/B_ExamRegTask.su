@@ -1,0 +1,8 @@
+B_ExamRegTask.c:40:13:pfunA_Delay_Get_Answ_timer	24	static
+B_ExamRegTask.c:69:13:pfunA_Send_Req_Update_timer	24	static
+B_ExamRegTask.c:107:6:OTBA_B_Req_Task	32	static
+B_ExamRegTask.c:139:16:fsm_exam_test	24	static
+B_ExamRegTask.c:210:6:OTBA_Get_B_Answ_Task	176	static
+B_ExamRegTask.c:287:16:complete_handle_FPGA_reg31_write	24	static
+B_ExamRegTask.c:311:16:send_OTBA_request_to_OTBB	16	static
+B_ExamRegTask.c:384:16:Proccessing_Answ_OTBB	24	static

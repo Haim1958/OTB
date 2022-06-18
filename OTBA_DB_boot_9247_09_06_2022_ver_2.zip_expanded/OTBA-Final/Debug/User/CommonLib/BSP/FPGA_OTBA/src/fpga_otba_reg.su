@@ -1,0 +1,2 @@
+fpga_otba_reg.c:56:9:_fpga_otba_read_register	32	static
+fpga_otba_reg.c:89:9:_fpga_otba_write_register	24	static

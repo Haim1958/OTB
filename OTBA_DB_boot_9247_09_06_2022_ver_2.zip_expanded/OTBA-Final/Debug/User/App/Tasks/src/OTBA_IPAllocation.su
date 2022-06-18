@@ -1,0 +1,4 @@
+OTBA_IPAllocation.c:56:17:CreateSocketBindAndListen	48	static
+OTBA_IPAllocation.c:121:17:IP_accept_connect	48	static
+OTBA_IPAllocation.c:164:6:pfunA_IP_ALLOCT_Update	24	static
+OTBA_IPAllocation.c:196:6:IPAllocationTask	64	static

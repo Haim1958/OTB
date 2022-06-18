@@ -1,0 +1,5 @@
+fpga_otbc.c:51:9:install_fpga_otbc	48	static
+fpga_otbc.c:96:16:_fpga_otbc_open	24	static
+fpga_otbc.c:119:16:_fpga_otbc_read	24	static
+fpga_otbc.c:137:16:_fpga_otbc_write	24	static
+fpga_otbc.c:153:16:_fpga_otbc_ioctl	40	static

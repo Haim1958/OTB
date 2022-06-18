@@ -1,0 +1,5 @@
+otbbcom.c:63:9:install_otbbcom	56	static
+otbbcom.c:110:16:_otbbcom_open	40	static
+otbbcom.c:185:16:_otbbcom_read	40	static
+otbbcom.c:220:16:_otbbcom_write	32	static
+otbbcom.c:240:16:_otbbcom_ioctl	32	static
